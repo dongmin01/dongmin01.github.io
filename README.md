@@ -33,10 +33,11 @@
        </form>
     </td></tr>
  </table>
-<a href="xiangmu4">项目四</a>;
-<br><a href="xiangmu5">项目五 签名</a> ;
-<br><a href="meishui">项目五 美食</a> ;
-<br><a href="kafeidian">项目五 咖啡店</a> ;
+<a href="xiangmu4.html">项目四</a>;
+<br><a href="xiangmu5.html">项目五 签名</a> ;
+<br><a href="meishi.html">项目五 美食</a> ;
+<br><a href="kafeidian.html">项目五 咖啡店</a> ;
+<br><a href="boke.html">项目六 博客</a> ;
 </body>
 </html>
 
